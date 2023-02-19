@@ -30,7 +30,6 @@
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
 - [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
-- [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG`
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
 - [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `leetcode`
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`

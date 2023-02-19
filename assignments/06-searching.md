@@ -13,17 +13,13 @@
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
-- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
@@ -40,7 +36,6 @@
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
-- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [4 Sum](https://leetcode.com/problems/4sum/)
 

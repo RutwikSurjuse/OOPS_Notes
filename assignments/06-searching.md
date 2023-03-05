@@ -7,7 +7,6 @@
 # Problems:
 
 ## Easy
-- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
@@ -19,6 +18,7 @@
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 
 ## Medium
+- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)

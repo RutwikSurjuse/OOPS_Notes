@@ -3,11 +3,10 @@
 ## Submit the following on your Leetcode profile itself.
 
 ### Easy
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 ### Medium
+24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)

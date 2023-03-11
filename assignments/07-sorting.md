@@ -15,7 +15,6 @@
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [Array Partition](https://leetcode.com/problems/array-partition/) -> https://www.youtube.com/watch?v=Qmh3k8l-bIc
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
 - [Height Checker](https://leetcode.com/problems/height-checker/)
